@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+.claude/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Specific ignored files
+You are a senior quantitative finan.txt
